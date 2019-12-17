@@ -1,0 +1,258 @@
+body{
+	margin: 0;
+	background-color: white;
+}
+
+.logo {
+	background-color: #D2691E;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+}
+
+a:hover{
+	color: red;
+}
+
+.header{
+	padding: 20px;
+	background-color: white;
+	font-size: 1.4em;
+	font-weight: bold;
+	font-family: MV Boli;
+}
+
+.nav{
+	background-color: #D2691E;
+}
+
+.nav ul{
+	margin: 0;
+	list-style-type: none;
+	padding: 20px;
+  text-align: right;
+}
+
+
+.nav ul li{
+	display: inline-block;
+	width:6%;
+}
+
+.image {
+	height: 400px;
+	background-image: url("/image/header.jpg");
+	background-size: cover;
+  padding: 170px;
+	font-family:monospace;
+	color: white;
+}
+
+.content {
+	width: 80%;
+	margin: 0 auto;
+	text-align:  center;
+	padding: 40px 0;
+}
+
+
+.images {
+	width: 300px;
+	height: 300px;
+	padding: 10px;
+	border: 4px solid #D2691E;
+}
+.image1{
+	height: 300px;
+	width: 240px;
+	background-image: url("/image/Royal Lampung Robusta.png");
+	float: left;
+	margin-bottom: 40px;
+	border-top: 1px solid #D2691E;
+	border-bottom : 1px solid #D2691E;
+	border-left: 1px solid #D2691E;
+	border-right : 1px solid #D2691E;
+}
+
+.image2{
+	height: 300px;
+	width: 240px;
+	background-image: url("/image/Toraja Coffee.png");
+	float: right;
+	margin-bottom: 40px;
+	border-top: 1px solid #D2691E;
+	border-bottom : 1px solid #D2691E;
+	border-left: 1px solid #D2691E;
+	border-right : 1px solid #D2691E;
+
+}
+
+.image3{
+	display: block;
+	height: 300px;
+	width: 240px;
+	background-image: url("/image/JPW Arabica Robusta.png");
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 40px;
+	border-top: 1px solid #D2691E;
+	border-bottom : 1px solid #D2691E;
+	border-left: 1px solid #D2691E;
+	border-right : 1px solid #D2691E;
+}
+ .image4{
+	height: 300px;
+	width: 240px;
+	background-image: url("/image/King Jantan.png");
+	float: left;
+	margin-bottom: 40px;
+	border-top: 1px solid #D2691E;
+	border-bottom : 1px solid #D2691E;
+	border-left: 1px solid #D2691E;
+	border-right : 1px solid #D2691E;
+}
+
+.image5{
+	height: 300px;
+	width: 240px;
+	background-image: url("/image/jpw.jpg");
+	float: right;
+	margin-bottom: 40px;
+	border-top: 1px solid #D2691E;
+	border-bottom : 1px solid #D2691E;
+	border-left: 1px solid #D2691E;
+	border-right : 1px solid #D2691E;
+}
+
+.image6{
+	display: block;
+	height: 300px;
+	width: 240px;
+	background-image: url("/image/kopi-3-raw.jpg");
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 40px;
+	border-top: 1px solid #D2691E;
+	border-bottom : 1px solid #D2691E;
+	border-left: 1px solid #D2691E;
+	border-right : 1px solid #D2691E;
+}
+
+.image7{
+	height: 300px;
+	width: 240px;
+	background-image: url("/image/kopiarabika.png");
+	float: left;
+	margin-bottom: 40px;
+	border-top: 1px solid #D2691E;
+	border-bottom : 1px solid #D2691E;
+	border-left: 1px solid #D2691E;
+	border-right : 1px solid #D2691E;
+}
+
+.image8{
+	height: 300px;
+	width: 240px;
+	background-image: url("/image/tanamera.jpg");
+	float: right;
+	margin-bottom: 40px;
+	border-top: 1px solid #D2691E;
+	border-bottom : 1px solid #D2691E;
+	border-left: 1px solid #D2691E;
+	border-right : 1px solid #D2691E;
+}
+
+.image9{
+	display: block;
+	height: 300px;
+	width: 240px;
+	background-image: url("/image/java.jpg");
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 40px;
+	border-top: 1px solid #D2691E;
+	border-bottom : 1px solid #D2691E;
+	border-left: 1px solid #D2691E;
+	border-right : 1px solid #D2691E;
+}
+
+.image10{
+	height: 300px;
+	width: 240px;
+	background-image: url("/image/Biji Kopi Flores.png");
+	float: left;
+	margin-bottom: 40px;
+	border-top: 1px solid #D2691E;
+	border-bottom : 1px solid #D2691E;
+	border-left: 1px solid #D2691E;
+	border-right : 1px solid #D2691E;
+}
+
+.image11{
+	height: 300px;
+	width: 240px;
+	background-image: url("/image/sulawessi.jpg");
+	float: right;
+	margin-bottom: 40px;
+	border-top: 1px solid #D2691E;
+	border-bottom : 1px solid #D2691E;
+	border-left: 1px solid #D2691E;
+	border-right : 1px solid #D2691E;
+}
+
+.image12{
+	display: block;
+	height: 300px;
+	width: 240px;
+	background-image: url("/image/luwakaceh.png");
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 40px;
+	border-top: 1px solid #D2691E;
+	border-bottom : 1px solid #D2691E;
+	border-left: 1px solid #D2691E;
+	border-right : 1px solid #D2691E;
+}
+
+
+.login{
+	height: 240px;
+	width: 400px;
+	border-top: 2px solid black;
+	border-bottom : 2px solid black;
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+	background-color: #D2691E;
+	position:relative;
+
+	margin:auto;
+	margin-bottom: 50px;
+	padding-bottom: 0;
+}
+
+.register{
+	height: 440px;
+	width: 800px;
+	border-top: 2px solid black;
+	border-bottom : 2px solid black;
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+	background-color: #D2691E;
+	position:relative;
+
+	margin:auto;
+	margin-bottom: 50px;
+	padding-bottom: 0;
+
+}
+
+.footer{
+    height: 500px;
+    background-image: url("/image/footer-bg.jpg");
+    background-size: cover;
+    padding: 10px;
+
+}
